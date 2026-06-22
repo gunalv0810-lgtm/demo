@@ -175,6 +175,6 @@ This application is a student/academic project intended to demonstrate applied m
 ## 👤 Author
 
 **Gunal**
-AI/ML Developer | Building practical, real-world ML applications
+ Learning ML | Building practical, real-world ML applications
 
 If you found this project interesting, consider giving it a ⭐!
